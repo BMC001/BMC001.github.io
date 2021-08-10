@@ -1,12 +1,12 @@
 [readme.txt](https://github.com/BMC001/BMC001.github.io/files/6964218/readme.txt)
 ## Welcome to GitHub Pages
-This page is currently under construction!  Thank you for your patience!
+Aug 10 2021 - This page is currently under construction!  Thank you for your patience!
 You can use the [editor on GitHub](https://github.com/BMC001/BMC001.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-Aug 10 2021
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
